@@ -1,0 +1,36 @@
+"*":
+  "atom-beautify":
+    css:
+      preserve_newlines: true
+      selector_separator_newline: true
+    general:
+      _analyticsUserId: "d40b63ed-99dc-4b75-a930-fa70634c2bd4"
+      analytics: false
+      beautifyEntireFileOnSave: false
+    scss:
+      preserve_newlines: true
+  "autoclose-html": {}
+  "close-tags": {}
+  core:
+    projectHome: "/Users/dgillhespy/projects"
+    telemetryConsent: "limited"
+    themes: [
+      "atom-solarized-dark-ui"
+      "solarized-dark-syntax"
+    ]
+  editor:
+    fontFamily: "operator mono"
+    fontSize: 17
+    invisibles: {}
+    scrollPastEnd: true
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+  "exception-reporting":
+    userId: "c5fd72cb-0bb2-d211-ec85-38f05832a126"
+  linter: {}
+  "linter-tidy": {}
+  "linter-ui-default": {}
+  minimap: {}
+  pigments: {}
+  welcome:
+    showOnStartup: false
